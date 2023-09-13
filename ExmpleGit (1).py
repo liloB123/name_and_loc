@@ -1,5 +1,5 @@
 #1
-print(" Hello Enter your  name: ")
+print(" Hello Enter your  name: cat ")
 
 #2
 print(" Hello Enter your adress: ")
